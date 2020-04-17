@@ -1,0 +1,18 @@
+[
+	{
+		"name": "Raydiar",
+		"unitType": "Mounted",
+		"replaces": "Horseman",
+		"uniqueTo": "Angaria",
+		"movement": 4,
+		"strength": 12,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Metallurgy",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Penalty vs City 33%","Bonus as Attacker [25]%"],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
+	}
+]
