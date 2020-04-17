@@ -18,7 +18,7 @@
 		
 		"tradeRequest": "Trade is not one of my best suites, let's do this quickly.",
 				
-		"outerColor": [130,40,40],
+		"outerColor": [96,20,20],
 		"innerColor": [0,0,0],
 		"unique": "MONGOL_TERROR",
 		"cities": ["Khandar","Marurak","Talevan","Kurdabadi","Gurasha","Ochili","Or Raha","Tayiva","Ruser","Muhayr",
