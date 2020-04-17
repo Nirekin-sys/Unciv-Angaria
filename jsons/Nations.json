@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Angaria",
+		"leaderName": "Chief Asha",
+		"adjective": ["Angarians"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "May the blessings of heaven be upon you, O great Nebuchadnezzar, father of mighty and ancient Babylon! Young was the world when Sargon built Babylon some five thousand years ago, long did it grow and prosper, gaining its first empire the eighteenth century BC, under godlike Hammurabi, the giver of law. Although conquered by the Kassites and then by the Assyrians, Babylon endured, emerging phoenix-like from its ashes of destruction and regaining its independence despite its many enemies. Truly was Babylon the center of arts and learning in the ancient world. O Nebuchadnezzar, your empire endured but a short time after your death, falling to the mighty Persians, and then to the Greeks, until the great city was destroyed by 141 BC.",
+		"startIntroPart2": "But is Babylon indeed gone forever, great Nebuchadnezzar? Your people look to you to bring the empire back to life once more. Will you accept the challenge? Will you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "Your riches, your women, I shall get them!",
+		"attacked": "Treacherous bug! Atleast you have courage.",
+		"defeated": "Farewell then, clearly I do not deserve to rule...",
+		"introduction": "I shall saddle this world and ride it! Hail me!",
+		
+		"neutralHello": "Who are you, have you brought the saddles?",
+		"hateHello": "What has made the horses crazy today, I wonder.",
+		
+		"tradeRequest": "Trade is not one of my best suites, let's do this quickly.",
+				
+		"outerColor": [130,40,40],
+		"innerColor": [0,0,0],
+		"unique": "MONGOL_TERROR",
+		"cities": ["Khandar","Marurak","Talevan","Kurdabadi","Gurasha","Ochili","Or Raha","Tayiva","Ruser","Muhayr",
+			"Tmenin el Selmieh","Jerqilya","Jabaar","Mazraat el Kfarbara","Abovavir","Kajir","Mingi","Khyrdafa","Gardrejo","Rusos",
+			"Ashdaron","Eilakim","Muman","Duayr","Ain el Bsarrada","Ras el Chliroun","Yalus","Beit Hahour","Marilak","Sevevan",
+			"Fuzilli","Astaz","Potomi","Gatah","Petakhi","Quraya","Zaamam","Dhaiya","Tulicho","Seriine el Ehaneh"]
+	}
+]
