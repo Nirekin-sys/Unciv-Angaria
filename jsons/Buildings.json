@@ -5,8 +5,9 @@
 		"uniqueTo": "Angaria",
 		"requiredNearbyImprovedResources": ["Horses"],
 		"xpForNewUnits": 15,
+		"production": 1,
 		"resourceBonusStats": {"production": 1},
-		"cost": 70,
+		"cost": 100,
 		"hurryCostModifier": 25,
 		"uniques": ["+15% Production when building Mounted Units in this city"],
 		"requiredTech": "Horseback Riding"
