@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Horse Byre",
+		"replaces": "Stable",
+		"uniqueTo": "Angaria",
+		"requiredNearbyImprovedResources": ["Horses"],
+		"xpForNewUnits": 15,
+		"resourceBonusStats": {"production": 1},
+		"cost": 70,
+		"hurryCostModifier": 25,
+		"uniques": ["+15% Production when building Mounted Units in this city"],
+		"requiredTech": "Horseback Riding"
+	}
+]
